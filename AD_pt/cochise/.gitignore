@@ -1,0 +1,6 @@
+.env
+__pycache__/
+src/cochise.egg-info/
+logs/run-*
+chroma_langchain_db/
+
